@@ -1,5 +1,5 @@
 # diabities-streamlit-app1
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 ## Data
 The data for the following example is originally from the [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/) and is [available on Kaggle.](https://www.kaggle.com/uciml/pima-indians-diabetes-database) The data contains information on females at least 21 years old of Pima Indian heritage.
 Since the data has been added to the `data/` directory, cloning this repository would suffice.
