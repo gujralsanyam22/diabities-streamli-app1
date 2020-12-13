@@ -42,7 +42,7 @@ This repository acts as a guide to [this blog post] where I talk about how I use
 
 ## Acknowledgements
 
-[Kaggle](https://kaggle.com/), for providing the data for the machine learning pipeline.  
-[Streamlit](https://www.streamlit.io/), for the open-source library for rapid prototyping.
+[Kaggle](https://kaggle.com/):- for providing the data for the machine learning pipeline.  
+[Streamlit](https://www.streamlit.io/) :- for the open-source library for rapid prototyping.
 
 
